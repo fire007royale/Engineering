@@ -1,4 +1,17 @@
-# Engineering Record — 2026
+# Neeraj Nambiar — Engineering Record
+
+Engineer working on developer tooling, test infrastructure and AI-assisted
+software delivery. Currently at IDEXX, on veterinary software platforms.
+
+I build the systems other engineers build with — CI pipelines, test frameworks,
+internal agent tooling, and the automation that keeps large suites honest.
+
+**Working with:** TypeScript · Python · Go · Playwright · Node · Docker ·
+GitHub Actions · GitLab CI · Claude Code and agent tooling
+
+---
+
+## About this record
 
 A factual record of my engineering output for the 2026 calendar year.
 
