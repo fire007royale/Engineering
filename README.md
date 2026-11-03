@@ -61,27 +61,6 @@ Work was split across two version-control platforms and two product groups.
 
 ---
 
-## Delivery over the year
-
-| Month | Changes merged |
-|---|---:|
-| January | 2 |
-| February | 1 |
-| March | 10 |
-| April | 5 |
-| May | 15 |
-| June | 24 |
-| July | 37 |
-| August | 48 |
-| September | 54 |
-| October | 57 |
-
-Output grew roughly 5× over the year. The inflection in mid-year is when I moved
-from writing tests by hand to building the tooling that generates and validates
-them — and then used that tooling across both product groups.
-
----
-
 ## What I actually build
 
 **Test infrastructure.** End-to-end suites in TypeScript and Playwright,
